@@ -101,6 +101,3 @@ Username: Admin Password: admin123
 📞 Cell/WhatsApp: +880 1612425150  
 📧 Email: [mdasadul.qa@gmail.com](mailto:mdasadul.qa@gmail.com)
 
----
-
-> **This project offers a complete walkthrough of manual testing practices using OrangeHRM as a live application. Ideal for QA beginners and testers building expertise in structured testing.**
